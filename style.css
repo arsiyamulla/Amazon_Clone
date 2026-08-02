@@ -162,7 +162,7 @@ span{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    background-color: #cacccc;
+    background-color: #f7fbfb;
 }
 .box{
     border: 2px solid rgb(25, 16, 16);
