@@ -202,7 +202,7 @@ font-size: 0.85rem;
 }
 .foot-panel2{
    background-color: #222f3d;
-  color: white;
+  color: rgb(216, 216, 216);
   height: 500px;
   display: flex;
   justify-content: space-evenly;
